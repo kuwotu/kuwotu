@@ -2,7 +2,6 @@
 
 ## Hi there, I'm Kevwe 👋🏾
 
-<br />
 ### About Me
 ---
 
@@ -12,12 +11,12 @@
 📜 Graduated with a degree in Philosophy  
 🏎️ Very driven and motivated to be the best at my craft
 
-<br />
+
 ### Languages and Tools
 
 ![My Skills](https://skillicons.dev/icons?i=js,react,html,css,git,vscode,figma&theme=light)
 
-<br />
+
 ### 2022 Personal Goals
 
 - 🕺🏿 Attend more concerts
@@ -26,7 +25,7 @@
 - 🎨 Learn about creative coding
 - ✍🏽 Write my first ever blog post
 
-<br />
+
 ### Get in touch
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/kevwe-uwotu/)

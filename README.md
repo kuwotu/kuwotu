@@ -8,7 +8,7 @@
 🧠 Constant learner  
 🖼️ Huge passion for art, fashion and music  
 📜 Graduated with a degree in Philosophy  
-🏎️ Very driven and motivated to be the best at my craft
+🏎️ Very driven - highly motivated to be the best at my craft
 
 
 ### Languages and Tools

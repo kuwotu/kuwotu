@@ -27,7 +27,7 @@
 
 ### Get in touch
 
-<a href="https://www.linkedin.com/in/kevwe-uwotu" target="_blank">
+<a href="https://www.linkedin.com/in/kevwe-uwotu" target="_blank"">
 <img alt="Linkedin Logo - click for my Linkedin profile" width="48px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />
 <a/>
 <a href="mailto:kevwe1996@gmail.com?subject=Let's%20work%20together!%20-%20Github">

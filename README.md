@@ -3,9 +3,7 @@
 ## Hi there, I'm Kevwe 👋🏾
 
 <br />
-
 ### About Me
-
 ---
 
 🧑🏾‍💻 Front-End Developer  
@@ -15,13 +13,11 @@
 🏎️ Very driven and motivated to be the best at my craft
 
 <br />
-
 ### Languages and Tools
 
 ![My Skills](https://skillicons.dev/icons?i=js,react,html,css,git,vscode,figma&theme=light)
 
 <br />
-
 ### 2022 Personal Goals
 
 - 🕺🏿 Attend more concerts
@@ -31,7 +27,6 @@
 - ✍🏽 Write my first ever blog post
 
 <br />
-
 ### Get in touch
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/kevwe-uwotu/)

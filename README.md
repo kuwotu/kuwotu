@@ -1,9 +1,3 @@
-<style>
-h2 {
-   border: none!important;
-}
-</style>
-
 ![Banner](kevwe-banner.jpg)
 
 ## Hi there, I'm Kevwe 👋🏾

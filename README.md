@@ -15,16 +15,6 @@
 
 ![My Skills](https://skillicons.dev/icons?i=js,react,html,css,git,vscode,figma&theme=light)
 
-
-### 2022 Personal Goals
-
-- 🕺🏿 Attend more concerts
-- 💇🏽 Learn how to cut my own hair
-- 🎸 Purchase an electric guitar
-- 🎨 Learn about creative coding
-- ✍🏽 Write my first ever blog post
-
-
 ### Get in touch
 
 <a href="https://www.linkedin.com/in/kevwe-uwotu" target="_blank">

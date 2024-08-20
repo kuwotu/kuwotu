@@ -25,7 +25,3 @@
 <a/>
   
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuwotu&layout=compact)
-
-![Kevwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuwotu&hide=stars,prs,contribs,issues)

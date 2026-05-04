@@ -1,20 +1,3 @@
-![Banner](kevwe-banner.jpg)
-
-## Hi there, I'm Kevwe 👋🏾
-### About Me
----
-
-🧑🏾‍💻 Front-End Developer  
-🧠 Constant learner  
-🖼️ Huge passion for art, fashion and music  
-📜 Graduated with a degree in Philosophy  
-🏎️ Very driven - highly motivated to be the best at my craft
-
-
-### Languages and Tools
-
-![My Skills](https://skillicons.dev/icons?i=js,react,html,css,git,vscode,figma&theme=light)
-
 ### Get in touch
 
 <a href="https://www.linkedin.com/in/kevwe-uwotu" target="_blank">
